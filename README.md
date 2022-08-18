@@ -3,15 +3,7 @@ a study guide for pre work
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
+I wanted to better my life so I decided to learn how to code, I made this guide to help others like me navigate the struggles of learning something new. This guide will help demonstrate how to get started in coding. I learned how to set up the basic resources I need to begin my coding bootcamp.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -23,9 +15,6 @@ N/A
 ## Usage
 
 This study guide can be used to help students get introduce to coding 101 as well as having the right assets to start class.
-
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 N/A
